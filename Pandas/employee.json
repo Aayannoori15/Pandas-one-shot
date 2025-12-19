@@ -1,0 +1,30 @@
+[
+  {
+    "employee_id": 201,
+    "name": "Aarav Sharma",
+    "age": 28,
+    "department": "Sales",
+    "salary": 64000
+  },
+  {
+    "employee_id": 202,
+    "name": "Linda Brown",
+    "age": 30,
+    "department": "Engineering",
+    "salary": 79000
+  },
+  {
+    "employee_id": 203,
+    "name": "Carlos Diaz",
+    "age": 27,
+    "department": "Support",
+    "salary": 52000
+  },
+  {
+    "employee_id": 204,
+    "name": "Meera Gupta",
+    "age": 34,
+    "department": "HR",
+    "salary": 70000
+  }
+]
